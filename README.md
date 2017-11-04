@@ -28,3 +28,13 @@
 
 <hr>
 
+#### [单例模式--SingleTon](http://www.jianshu.com/p/62b2e89621a5)
+
+
+|作者|发送时间|
+|---|---|
+| [TigerChain](http://www.jianshu.com/u/3106a1da401f) |2017.11.4|
+
+<hr>
+
+
