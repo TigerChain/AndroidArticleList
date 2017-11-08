@@ -37,4 +37,13 @@
 
 <hr>
 
+#### [策略模式--Stragegy](http://www.jianshu.com/p/135532803cdb)
+
+
+|作者|发送时间|
+|---|---|
+| [TigerChain](http://www.jianshu.com/u/3106a1da401f) |2017.11.8|
+
+<hr>
+
 
