@@ -46,4 +46,13 @@
 
 <hr>
 
+#### [适配器模式--Adapter](http://www.jianshu.com/p/1edf5d944abb)
+
+
+|作者|发送时间|
+|---|---|
+| [TigerChain](http://www.jianshu.com/u/3106a1da401f) |2017.11.12|
+
+<hr>
+
 
