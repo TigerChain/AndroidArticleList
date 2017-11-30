@@ -19,7 +19,9 @@
 
 <hr>
 
-#### [简单工厂模式--SimpleFactory](http://www.jianshu.com/p/36fe35ad743a)
+## 人人都会设计模式系列
+
+#### [01、简单工厂模式--SimpleFactory](http://www.jianshu.com/p/36fe35ad743a)
 
 
 |作者|发送时间|
@@ -28,7 +30,7 @@
 
 <hr>
 
-#### [单例模式--SingleTon](http://www.jianshu.com/p/62b2e89621a5)
+#### [02、单例模式--SingleTon](http://www.jianshu.com/p/62b2e89621a5)
 
 
 |作者|发送时间|
@@ -37,7 +39,7 @@
 
 <hr>
 
-#### [策略模式--Stragegy](http://www.jianshu.com/p/135532803cdb)
+#### [03、策略模式--Stragegy](http://www.jianshu.com/p/135532803cdb)
 
 
 |作者|发送时间|
@@ -46,12 +48,30 @@
 
 <hr>
 
-#### [适配器模式--Adapter](http://www.jianshu.com/p/1edf5d944abb)
+#### [04、适配器模式--Adapter](http://www.jianshu.com/p/1edf5d944abb)
 
 
 |作者|发送时间|
 |---|---|
 | [TigerChain](http://www.jianshu.com/u/3106a1da401f) |2017.11.12|
+
+<hr>
+
+#### [05、代理模式--Proxy](http://www.jianshu.com/p/1b3b6b003032)
+
+
+|作者|发送时间|
+|---|---|
+| [TigerChain](http://www.jianshu.com/u/3106a1da401f) |2017.11.21|
+
+<hr>
+
+#### [06、观察者模式--Observer](http://www.jianshu.com/p/b972ba509c66)
+
+
+|作者|发送时间|
+|---|---|
+| [TigerChain](http://www.jianshu.com/u/3106a1da401f) |2017.11.27|
 
 <hr>
 
