@@ -75,4 +75,22 @@
 
 <hr>
 
+#### [07、建造者模式--Builder](http://www.jianshu.com/p/300cbb9ee7f2)
+
+
+|作者|发送时间|
+|---|---|
+| [TigerChain](http://www.jianshu.com/u/3106a1da401f) |2017.12.3|
+
+<hr>
+
+#### [08、模版方法模式--Template-Method](http://www.jianshu.com/p/6c6191a47197)
+
+
+|作者|发送时间|
+|---|---|
+| [TigerChain](http://www.jianshu.com/u/3106a1da401f) |2017.12.10|
+
+<hr>
+
 
